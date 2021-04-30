@@ -1,0 +1,29 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "web开发常用的工具库",
+  "main": "libs/index.js",
+  "scripts": {
+    "test": "pnpm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuoJikun/utils.git"
+  },
+  "keywords": [
+    "web",
+    "javascript",
+    "util",
+    "cookie"
+  ],
+  "author": "GuoJikun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuoJikun/utils/issues"
+  },
+  "homepage": "https://github.com/GuoJikun/utils#readme",
+  "devDependencies": {
+    "rollup": "^2.45.2",
+    "typescript": "^4.2.4"
+  }
+}
